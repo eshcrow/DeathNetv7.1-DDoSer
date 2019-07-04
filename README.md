@@ -7,11 +7,14 @@ DeathNetv7.1 - это мощная программа для DDoSа сайтов
 1. Запускаем **BotsGrab** 
 ![](https://s8.hostingkartinok.com/uploads/images/2019/07/268be276e9e40ec3defdd7ed3741ab11.png)
 
+
 2. Соглашаемся проверить ботов на доступность, дабы отсеять "мёртвых" 
 ![](https://s8.hostingkartinok.com/uploads/images/2019/07/cf0f0f9c5fa62637ef677c06d1ef3051.png)
 
+
 3. Ждём пока боты чекнутся и программа сама закроется.
 ![](https://s8.hostingkartinok.com/uploads/images/2019/07/6470616988df414022aea3b0aac2c6e8.png)
+
 
 4. Запускаем **DeathNetv7.1** 
 ![](https://s8.hostingkartinok.com/uploads/images/2019/07/394989856f99d523ad04bec24e47da67.png)
