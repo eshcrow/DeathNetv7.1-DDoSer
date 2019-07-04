@@ -16,7 +16,7 @@ DeathNetv7.1 - это мощная программа для DDoSа сайтов
 ![](https://s8.hostingkartinok.com/uploads/images/2019/07/6470616988df414022aea3b0aac2c6e8.png)
 
 
-4. Запускаем **DeathNetv7.1** 
+4. Запускаем **DeathNetv7.1**
 ![](https://s8.hostingkartinok.com/uploads/images/2019/07/394989856f99d523ad04bec24e47da67.png)
 ![](https://s8.hostingkartinok.com/uploads/images/2019/07/138ca414d1be0f655d5a935d272f019d.png)
 ![](https://s8.hostingkartinok.com/uploads/images/2019/07/d93335a84116dec95a8447b8314326ed.png)
